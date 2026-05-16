@@ -2,7 +2,7 @@
 <h3 align="center">💻 Computer Engineering Student</h3>
 
 <div align="center">
-<img src="https://media.tenor.com/L8msg5Q49iAAAAAC/anime-computer.gif" width="260">
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="220">
 </div>
 
 ---
