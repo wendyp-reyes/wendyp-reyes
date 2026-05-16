@@ -2,7 +2,7 @@
 <h3 align="center">💻 Computer Engineering Student</h3>
 
 <div align="center">
-<img src="https://tenor.com/view/video-games-pusheen-pusheen-cat-gif-364144617506512429.gif" width="250">
+<img src="https://tenor.com/v0j1fP7PVQv.gif" width="250">
 </div>
 
 ---
