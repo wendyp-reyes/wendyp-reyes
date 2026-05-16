@@ -2,7 +2,7 @@
 <h3 align="center">💻 Computer Engineering Student</h3>
 
 <div align="center">
-<img src="https://media.githubusercontent.com/media/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="260">
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="260">
 </div>
 
 ---
