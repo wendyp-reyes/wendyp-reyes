@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wendy Peña</h1>
 <h3 align="center">💻 Computer Engineering Student</h3>
 
-<p align="center">
-  <img src="https://media.tenor.com/0hj7Z8G2WlIAAAAC/ai-grok.gif" width="260"/>
-</p>
+<div align="center">
+  <img src="./assets/ai.gif" width="260"/>
+</div>
 
 ## 🌸 About Me
 
