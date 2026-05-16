@@ -2,7 +2,7 @@
 <h3 align="center">💻 Computer Engineering Student</h3>
 
 <div align="center">
-  <img src="./assets/ai.gif" width="260"/>
+  <img src="./peach-and.gif" width="260"/>
 </div>
 
 ## 🌸 About Me
