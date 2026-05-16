@@ -3,7 +3,7 @@
 
 <div align="center">
   
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="250">
 
 </div>
 
@@ -33,9 +33,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?wendyp-reyes=WENDYP-REYES&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendyp-reyes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?wendyp-reyes=WENDYP-REYES&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendyp-reyes&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
@@ -49,12 +49,16 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="mailto:p.reyeswendy@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-✨ *"Code, create and keep learning."* ✨
+✨ <i>"Code, create and keep learning."</i> ✨
 
 </div>
