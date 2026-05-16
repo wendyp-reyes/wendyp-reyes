@@ -5,8 +5,6 @@
   <img src="https://media.tenor.com/0hj7Z8G2WlIAAAAC/ai-grok.gif" width="260"/>
 </p>
 
----
-
 ## 🌸 About Me
 
 ✨ Passionate about programming and technology  
@@ -22,7 +20,6 @@
 
 📫 Reach me at: **p.reyeswendy@gmail.com**
 
----
 
 # 🚀 My Skills Include
 
@@ -41,8 +38,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,notion,mysql,vscode" />
 
 </p>
-
----
 
 # 🌐 Check Out My Social Media
 
