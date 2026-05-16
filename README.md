@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wendy Peña</h1>
 <h3 align="center">💻 Computer Engineering Student</h3>
 
-<div align="center">
-<img src="https://tenor.com/v0j1fP7PVQv.gif" width="250">
-</div>
+<p align="center">
+  <img src="https://c.tenor.com/v0j1fP7PVQvAAAAC/pusheen-gaming.gif" width="250"/>
+</p>
 
 ---
 
